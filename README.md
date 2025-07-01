@@ -35,3 +35,8 @@ Built as part of the Codtech Internship, this AI-Based Recommendation System ser
 - Learning AI techniques like clustering, matrix factorization, or neural networks.
 - Prototyping recommendation systems for internship projects or real-world applications.
 
+##OUTPUT##
+
+![Image](https://github.com/user-attachments/assets/e7be26ae-4b28-41ec-969a-8a1d3083023f)
+
+![Image](https://github.com/user-attachments/assets/454931b6-5fa3-4d90-b81a-e2adf7822db5)
